@@ -1,0 +1,19 @@
+Assignment name: Assignment 5a
+TCSS 305: Programming Practicum, Autumn 2015
+
+Name: Patrick Cruz
+UWNetID: pcruz95
+Subversion Revision Number: 23
+
+
+Assignment Overview:
+This assignment sets us up for the main portion of the assignment. Its purpose is to get a large project ready from scratch and have the GUI looking as it should with only a little actual functionality.
+
+Technical Impression:
+Powerpaint is an extremely large project. My first major problem was figuring out where exactly to start. It was daunting trying to organize my thoughts and how I wanted to approach this. I realized later on that it would really help to create multiple classes with basic methods rather than shove everything into one class. I also am starting to realize how effective organizing my classes into sensible packages is now. Before, everything was given to me and I was given a framework to start with. It is a new challenge creating the framework myself from the ground up. Another problem I had was getting a line to properly be drawn on the screen. Learning how to get paintComponent() and all the mouse event stuff to work was frustrating, but slowly things started to make sense and come together. I'm a little neverous going into part b of this project because of how much functionality I have yet to implement, but I feel I've got a decent foundation to work off of based on what I have started in part a. I am definitely going to have to do a lot more research and planning ahead to make the final product work as I would like it to.
+
+Unresolved problems in my submission:
+none
+
+Questions:
+none
