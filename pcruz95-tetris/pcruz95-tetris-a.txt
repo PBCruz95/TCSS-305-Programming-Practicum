@@ -1,0 +1,28 @@
+Tetris part A 
+TCSS 305: Programming Practicum, Autumn 2015
+
+Name: Patrick Cruz
+UWNetID: pcruz95
+Subversion Revision Number: 30
+
+Assignment Overview: This assignment is the big one. It is supposed to test us on our everything we've learned up to this point in TCSS 305. We are to making a Tetris clone GUI using the given back end code and add customizations to it later on in part B.
+
+
+Technical Impression:
+This assignment by far has felt like my biggest one as a programmer. I have never created something on this scale (except perhaps PowerPaint). The main problem I had initially was fully understanding the back end code. The last time back end code was supplied to us was for SnapShop, and for that assignment we could get away with understanding that one method (filter()) would essentially do all the work for us. Here, it was evidently more important studying and understanding what methods did in the model package. Having this clear understanding made it possible to even start coding the GUI. My lord, NOW I know why commenting code is ESSENTIAL to surviving in this field. Without it, there is no way I would have understood the back end at all. Another problem I had that was incredibly frustrating was getting my NextPiecePanel to properly display the next piece in its right orientation and not in a mirrored state. I thought I had the wrong idea, but it turns out all I had to do was mess around with x and y coordinates because of how the back end methods were implemented. It took awhile, but thankfully it didn't take too long to figure out how to fix the coordinates.
+
+Changes to the starter code:
+none
+
+
+Extra Credit:
+none
+
+
+Unresolved problems in my submission:
+none
+
+
+Questions:
+none
+
